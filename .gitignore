@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+Thumbs.db
+*~
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# SASS
+.sass-cache/
+*.css.map
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build
+dist/
+build/
+
+# Temporary
+*.tmp
+*.log
